@@ -1,0 +1,32 @@
+{
+  "parent": "create_sky_additions:create_sky/water",
+  "criteria": {
+    "kelp": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "items": ["minecraft:kelp"]
+        }
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_sky.kelp.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:kelp"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_sky.kelp.title"
+    }
+  },
+  "requirements": [
+    ["kelp"]
+  ],
+  "sends_telemetry_event": true
+}

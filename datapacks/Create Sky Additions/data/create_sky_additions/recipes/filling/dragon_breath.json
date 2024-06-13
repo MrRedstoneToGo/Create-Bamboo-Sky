@@ -1,0 +1,21 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "farmersdelight:milk_bottle"
+    },
+    {
+      "amount": 4050,
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "minecraft:harming"
+      }
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:dragon_breath"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "create_sky_additions:create_sky/gold_nugget",
+  "criteria": {
+    "soul_sand": {
+      "trigger": "minecraft:thrown_item_picked_up_by_player",
+      "conditions": {
+        "item": {
+          "items": ["minecraft:soul_sand"]
+        },
+        "entity": {
+          "type": "minecraft:piglin"
+        }
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_sky.soul_sand.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:soul_sand"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_sky.soul_sand.title"
+    }
+  },
+  "requirements": [
+    ["soul_sand"]
+  ],
+  "sends_telemetry_event": true
+}

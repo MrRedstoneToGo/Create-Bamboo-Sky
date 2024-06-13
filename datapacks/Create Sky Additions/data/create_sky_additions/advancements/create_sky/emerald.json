@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:create_sky/quartz",
+  "criteria": {
+    "emerald": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:emerald"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_sky.emerald.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:emerald"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_sky.emerald.title"
+    }
+  },
+  "requirements": [
+    ["emerald"]
+  ],
+  "sends_telemetry_event": true
+}

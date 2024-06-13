@@ -1,0 +1,17 @@
+{
+	"type": "farmersdelight:cutting",
+	"ingredients": [
+		{
+			"item": "minecraft:cobblestone"
+		}
+	],
+	"result": [
+		{
+			"item": "minecraft:gravel"
+		}
+	],
+	"tool": {
+		"fabric:type": "farmersdelight:tool_action",
+		"action": "pickaxe_dig"
+	}
+}

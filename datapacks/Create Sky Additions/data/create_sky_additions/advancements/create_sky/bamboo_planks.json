@@ -1,0 +1,58 @@
+{
+  "parent": "create_sky_additions:create_sky/root",
+  "criteria": {
+    "planks_in_inventory": {
+            "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "create_sky_additions:crafting/bamboo_planks"  
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": [
+      {
+        "translate": "advancements.create_sky.bamboo_planks.description.info"
+      },
+      "\n\n",
+      {
+        "translate": "advancements.create_sky.bamboo_planks.description.important",
+        "bold": true,
+        "color": "yellow"
+      },
+      "\n",
+      {
+        "translate": "advancements.create_sky.bamboo_planks.description.tip",
+        "with": [
+          [
+            "\n",
+            {"text": "- ", "bold": true, "color": "red"},
+            {"translate": "advancements.create_sky.bamboo_planks.description.left_click", "bold": true, "color": "red"}
+          ],
+          {"text": "R", "bold": true, "color": "red"},
+          {"translate": "advancements.create_sky.bamboo_planks.description.recipes", "bold": true, "color": "blue"},
+          [
+            "\n",
+            {"text": "- ", "bold": true, "color": "red"},
+            {"translate": "advancements.create_sky.bamboo_planks.description.right_click", "bold": true, "color": "red"}
+          ],
+          {"text": "U", "bold": true, "color": "red"},
+          {"translate": "advancements.create_sky.bamboo_planks.description.uses", "bold": true, "color": "blue"}
+        ]
+      }
+    ],
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:bamboo_planks"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_sky.bamboo_planks.title"
+    }
+  },
+  "requirements": [
+    ["planks_in_inventory"]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "create_sky": {
+      "trigger": "minecraft:tick",
+            "conditions": {
+        "player": {
+          "flags": {
+            "is_sneaking": true
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    ["create_sky"]
+  ],
+  "display": {
+    "announce_to_chat": true,
+    "background": "create_sky_additions:textures/gui/advancements/backgrounds/sky.png",
+    "description": {
+      "translate": "advancements.create_sky.root.description",
+      "with": [
+        {"translate": "advancements.create_sky.root.description.press_l", "bold": true, "color": "red"}
+      ]
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:bamboo"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_sky.root.title"
+    }
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:create_sky/slime_ball",
+  "criteria": {
+    "netherrack": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:netherrack"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_sky.netherrack.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:netherrack"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_sky.netherrack.title"
+    }
+  },
+  "requirements": [
+    ["netherrack"]
+  ],
+  "sends_telemetry_event": true
+}

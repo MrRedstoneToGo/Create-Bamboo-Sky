@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:coal_block"
+    }
+  ],
+  "processingTime": 200,
+  "results": [
+    {
+      "chance": 0.01,
+      "item": "minecraft:diamond"
+    }
+  ]
+}

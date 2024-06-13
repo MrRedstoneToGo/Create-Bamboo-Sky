@@ -1,0 +1,35 @@
+{
+  "parent": "create_sky_additions:create_sky/gold_nugget",
+  "criteria": {
+    "quartz": {
+      "trigger": "minecraft:thrown_item_picked_up_by_player",
+      "conditions": {
+        "item": {
+          "items": ["minecraft:quartz"]
+        },
+        "entity": {
+          "type": "minecraft:piglin"
+        }
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_sky.quartz.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:quartz"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_sky.quartz.title"
+    }
+  },
+  "requirements": [
+    ["quartz"]
+  ],
+  "sends_telemetry_event": true
+}

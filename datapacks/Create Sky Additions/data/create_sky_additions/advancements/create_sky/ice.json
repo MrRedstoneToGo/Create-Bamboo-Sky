@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:create_sky/water",
+  "criteria": {
+    "ice": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:ice"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_sky.ice.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:ice"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_sky.ice.title"
+    }
+  },
+  "requirements": [
+    ["ice"]
+  ],
+  "sends_telemetry_event": true
+}

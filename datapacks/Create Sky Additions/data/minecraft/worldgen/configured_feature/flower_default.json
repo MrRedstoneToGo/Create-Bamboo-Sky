@@ -1,0 +1,297 @@
+{
+  "type": "minecraft:flower",
+  "config": {
+    "feature": {
+      "feature": {
+        "type": "minecraft:simple_block",
+        "config": {
+          "to_place": {
+            "type": "minecraft:weighted_state_provider",
+            "entries": [
+              {
+                "data": {
+                  "Name": "minecraft:dandelion"
+                },
+                "weight": 8
+              },
+              {
+                "data": {
+                  "Name": "minecraft:poppy"
+                },
+                "weight": 6
+              },
+              {
+                "data": {
+                  "Name": "minecraft:blue_orchid"
+                },
+                "weight": 4
+              },
+              {
+                "data": {
+                  "Name": "minecraft:allium"
+                },
+                "weight": 4
+              },
+              {
+                "data": {
+                  "Name": "minecraft:azure_bluet"
+                },
+                "weight": 4
+              },
+              {
+                "data": {
+                  "Name": "minecraft:red_tulip"
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "minecraft:orange_tulip"
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "minecraft:white_tulip"
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "minecraft:pink_tulip"
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "minecraft:oxeye_daisy"
+                },
+                "weight": 6
+              },
+              {
+                "data": {
+                  "Name": "minecraft:cornflower"
+                },
+                "weight": 6
+              },
+              {
+                "data": {
+                  "Name": "minecraft:lily_of_the_valley"
+                },
+                "weight": 2
+              },
+              {
+                "data": {
+                  "Name": "minecraft:sunflower"
+                },
+                "weight": 3
+              },
+              {
+                "data": {
+                  "Name": "minecraft:lilac"
+                },
+                "weight": 2
+              },
+              {
+                "data": {
+                  "Name": "minecraft:peony"
+                },
+                "weight": 2
+              },
+              {
+                "data": {
+                  "Name": "minecraft:rose_bush"
+                },
+                "weight": 2
+              },
+              {
+                "data": {
+                  "Name": "minecraft:torchflower"
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "minecraft:pitcher_plant"
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "minecraft:pink_petals",
+                  "Properties": {
+                    "facing": "north",
+                    "flower_amount": "1"
+                  }
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "minecraft:pink_petals",
+                  "Properties": {
+                    "facing": "east",
+                    "flower_amount": "1"
+                  }
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "minecraft:pink_petals",
+                  "Properties": {
+                    "facing": "south",
+                    "flower_amount": "1"
+                  }
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "minecraft:pink_petals",
+                  "Properties": {
+                    "facing": "west",
+                    "flower_amount": "1"
+                  }
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "farmersdelight:wild_carrots"
+                },
+                "weight": 6
+              },
+              {
+                "data": {
+                  "Name": "farmersdelight:wild_potatoes"
+                },
+                "weight": 6
+              },
+              {
+                "data": {
+                  "Name": "farmersdelight:wild_beetroots"
+                },
+                "weight": 4
+              },
+              {
+                "data": {
+                  "Name": "farmersdelight:wild_cabbages"
+                },
+                "weight": 4
+              },
+              {
+                "data": {
+                  "Name": "farmersdelight:wild_tomatoes"
+                },
+                "weight": 6
+              },
+              {
+                "data": {
+                  "Name": "farmersdelight:wild_onions"
+                },
+                "weight": 3
+              },
+              {
+                "data": {
+                  "Name": "minecraft:bamboo_sapling"
+                },
+                "weight": 16
+              },
+              {
+                "data": {
+                  "Name": "minecraft:pumpkin"
+                },
+                "weight": 4
+              },
+              {
+                "data": {
+                  "Name": "minecraft:melon"
+                },
+                "weight": 4
+              },
+              {
+                "data": {
+                  "Name": "minecraft:sweet_berry_bush",
+                  "Properties": {
+                      "age": "1"
+                  }
+                },
+                "weight": 4
+              },
+              {
+                "data": {
+                  "Name": "minecraft:sweet_berry_bush",
+                  "Properties": {
+                      "age": "2"
+                  }
+                },
+                "weight": 2
+              },
+              {
+                "data": {
+                  "Name": "minecraft:oak_sapling"
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "minecraft:spruce_sapling"
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "minecraft:birch_sapling"
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "minecraft:jungle_sapling"
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "minecraft:acacia_sapling"
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "minecraft:dark_oak_sapling"
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "minecraft:cherry_sapling"
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "minecraft:mangrove_propagule"
+                },
+                "weight": 1
+              }
+            ]
+          }
+        }
+      },
+      "placement": [
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:air"
+          }
+        }
+      ]
+    },
+    "tries": 64,
+    "xz_spread": 7,
+    "y_spread": 3
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "parent": "create_sky_additions:create_sky/iron_nugget",
+  "criteria": {
+    "cauldron": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": ["minecraft:bucket", "minecraft:glass_bottle"]
+            }
+          },
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": ["minecraft:water_cauldron", "minecraft:cauldron"]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_sky.water.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:cauldron"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_sky.water.title"
+    }
+  },
+  "requirements": [
+    ["cauldron"]
+  ],
+  "sends_telemetry_event": true
+}

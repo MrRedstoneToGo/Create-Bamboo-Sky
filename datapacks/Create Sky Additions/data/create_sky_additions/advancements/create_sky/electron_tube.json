@@ -1,0 +1,30 @@
+{
+  "parent": "create_sky_additions:create_sky/quartz",
+  "criteria": {
+    "electron_tube": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "create:crafting/materials/electron_tube"
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_sky.electron_tube.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "create:electron_tube"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_sky.electron_tube.title"
+    }
+  },
+  "requirements": [
+    ["electron_tube"]
+  ],
+  "sends_telemetry_event": true
+}

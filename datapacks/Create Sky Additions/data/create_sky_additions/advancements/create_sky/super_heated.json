@@ -1,0 +1,45 @@
+{
+  "parent": "create_sky_additions:create_sky/empty_blaze_burner",
+  "criteria": {
+    "super_heat": {
+            "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": ["createaddition:liquid_blaze_burner"]
+              }
+            }
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": ["createaddition:bioethanol_bucket"]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_sky.super_heated.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "createaddition:bioethanol_bucket"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_sky.super_heated.title"
+    }
+  },
+  "requirements": [
+    ["super_heat"]
+  ],
+  "sends_telemetry_event": true
+}

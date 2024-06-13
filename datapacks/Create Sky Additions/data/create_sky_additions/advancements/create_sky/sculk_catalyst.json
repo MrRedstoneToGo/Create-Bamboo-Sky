@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:create_sky/end_stone",
+  "criteria": {
+    "sculk_catalyst": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:sculk_catalyst"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_sky.sculk_catalyst.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:sculk_catalyst"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_sky.sculk_catalyst.title"
+    }
+  },
+  "requirements": [
+    ["sculk_catalyst"]
+  ],
+  "sends_telemetry_event": true
+}
