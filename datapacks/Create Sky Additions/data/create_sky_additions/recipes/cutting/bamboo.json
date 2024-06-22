@@ -1,0 +1,21 @@
+{
+	"type": "farmersdelight:cutting",
+	"ingredients": [
+		{
+			"item": "minecraft:bamboo"
+		}
+	],
+	"result": [
+    {
+			"item": "farmersdelight:tree_bark"
+		},
+		{
+			"chance": 0.1,
+			"item": "minecraft:lime_dye"
+		}
+	],
+	"tool": {
+		"fabric:type": "farmersdelight:tool_action",
+		"action": "axe_strip"
+	}
+}
