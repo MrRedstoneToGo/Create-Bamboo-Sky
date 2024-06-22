@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:blackstone"
+    }
+  ],
+  "processingTime": 300,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:coal"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:coal"
+    }
+  ]
+}
