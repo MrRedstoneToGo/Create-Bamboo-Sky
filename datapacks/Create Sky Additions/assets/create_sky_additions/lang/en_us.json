@@ -15,70 +15,103 @@
   
   "advancements.create_sky.blackstone.title": "Blackstone Traders",
   "advancements.create_sky.blackstone.description": "Get Blackstone from a Piglin. You can crush it later to get Coal, which, in compressed form, gives Diamonds when crushed.",
+  
   "advancements.create_sky.chorus.title": "Chorus time",
   "advancements.create_sky.chorus.description": "Fertilize Endstone with Desolate Spread for a teleportation plant.",
+  
   "advancements.create_sky.compost.title": "Back to the Nature",
   "advancements.create_sky.compost.description": "Compost Straw which you get from stripping Bamboo Blocks on a Cutting Board. Then cut you fresh compost with any shovel.%sPut the item to cut in your off hand and the tool in your main hand and hold right click! By the way, Bamboo can be mined instantly with a sword.",
+  
   "advancements.create_sky.copper_nugget.title": "Clay Treasures",
   "advancements.create_sky.copper_nugget.description": "Once you've milled the clay balls for copper, you're ready to mix your first brass if you didn't get it from your friends already :)",
+  
   "advancements.create_sky.dripstone.title": "Drip drip drip",
   "advancements.create_sky.dripstone.description": "Wash Limestone to get Dripstone and dry Mud on this.",
+  
   "advancements.create_sky.electron_tube.title": "Power Lamp",
   "advancements.create_sky.electron_tube.description": "Polish some Rose Quartz and make Electron Tubes by combining it with an Iron Sheet.",
+  
   "advancements.create_sky.emerald.title": "Real currency",
   "advancements.create_sky.emerald.description": "Make granite and mill it to get emeralds out of it.",
+  
   "advancements.create_sky.empty_blaze_burner.title": "Blaze cage",
   "advancements.create_sky.empty_blaze_burner.description": "Craft a home for your future hot friend.",
+  
   "advancements.create_sky.end_stone.title": "End Rock",
   "advancements.create_sky.end_stone.description": "The Blackstone really needs to cool down a lot...",
+  
   "advancements.create_sky.ender_pearl.title": "Ender Pearl Traders",
   "advancements.create_sky.ender_pearl.description": "Get Ender Pearls from a Piglin. You will need these later for Ender Jelly.%sBy the way, you can grow Ender Pearls with Ender Seeds.",
+  
   "advancements.create_sky.flint.title": "Pebbles",
   "advancements.create_sky.flint.description": "Cut Rocky Dirt.%sYou can make Flint later by cutting Gravel with a shovel on a Cutting Board. That way, you don't need to compost a huge amount of Straw.",
+  
   "advancements.create_sky.gold_nugget.title": "Sand Treasures",
   "advancements.create_sky.gold_nugget.description": "Mill burned Clay Blocks and wash the result afterwards.",
+  
   "advancements.create_sky.grow_flowers.title": "Colorful flowers",
   "advancements.create_sky.grow_flowers.description": "Fertilize a Grass Block and look which beautiful flowers grow!",
+  
   "advancements.create_sky.honey.title": "Buzzy Trees",
   "advancements.create_sky.honey.description": "Let a few Bees move into a Cherry Tree and collect Honey from them.%sYou can get Glass Bottles by drinking fished Water Bottles empty.",
+  
   "advancements.create_sky.ice.title": "A new Aggregat",
   "advancements.create_sky.ice.description": "Break some frost walker Frosted Ice with your Silk Touch Pickaxe",
+  
   "advancements.create_sky.iron_nugget.title": "Acquire Nuggets",
   "advancements.create_sky.iron_nugget.description": "Break Gravel while sneaking to get a new pebble.",
+  
   "advancements.create_sky.kelp.title": "Conveyor Kelp",
   "advancements.create_sky.kelp.description": "Fish Kelp for your Mechanical Belt",
+  
   "advancements.create_sky.lapis_lazuli.title": "Enchanting Powder",
   "advancements.create_sky.lapis_lazuli.description": "[Brass needed]: Deploy Blue Dye on Cinder Flour.",
+  
   "advancements.create_sky.lava.description": "Fill your bucket with 20 super-heated Cobblestones",
+  
   "advancements.create_sky.limestone.title": "Saltstone",
   "advancements.create_sky.limestone.description": "Make a Cobblestone Generator with Honey (fluid) and Lava (See advancement line with nether stuff).%sTry also other fluids in combination with Lava. Some will react with it, some won't.",
+  
   "advancements.create_sky.netherite_scrap.title": "A Sturdy Sheet, but netherfied",
   "advancements.create_sky.netherite_scrap.description": "Put Nether Bricks under a spout, deploy a Sturdy Sheet and Cinder Flour on it and press it. After repeating this 8 times, you will get ... rubble.",
+  
   "advancements.create_sky.netherrack.title": "Cooled magma",
   "advancements.create_sky.netherrack.description": "Freeze a Magma Block until you can walk on it.",
+  
   "advancements.create_sky.quartz.title": "Quartz Traders",
   "advancements.create_sky.quartz.description": "Get Nether Quartz from a Piglin.",
+  
   "advancements.create_sky.root.title": "Create: Bamboo Sky",
   "advancements.create_sky.root.description": "Welcome to my Create Skyblock modpack. I've just added a few recipes which make it even possible to get Create's ressources from just one Bamboo! With this advancement guide (%s) I'll guide you threw the first steps from Bamboo to Brass. Good luck!",
   "advancements.create_sky.root.description.press_l": "press L",
+  
   "advancements.create_sky.sculk_catalyst.title": "Catalyst",
   "advancements.create_sky.sculk_catalyst.description": "Put Endstone under a few machines and you have everything you need for Sculk.",
+  
   "advancements.create_sky.slicer.title": "Automated Kitchenwork",
   "advancements.create_sky.slicer.description": "You will probably have quickly realized that you would have to cut a lot of gravel by hand for a Cauldron. Let's automate this with a slicer...%sYou can power up your Slicer with a Water Wheel, which is powered by Thatch. The latter can be obtained by opening Hay Bales with Shears.",
+  
   "advancements.create_sky.slime_ball.title": "Sticky dough",
   "advancements.create_sky.slime_ball.description": "Slime Balls are basically just lime Dough, right?",
+  
   "advancements.create_sky.soul_sand.title": "Soul Sand Traders",
   "advancements.create_sky.soul_sand.description": "Get Soul Sand from a Piglin. You need this for haunting.",
+  
   "advancements.create_sky.spawn_egg.title": "Birthplace digging",
   "advancements.create_sky.spawn_egg.description": "Let the Sniffer sniff for spawn eggs.",
+  
   "advancements.create_sky.super_heated.title": "Renewable Fuel",
   "advancements.create_sky.super_heated.description": "Give the blaze in the blaze burner some Biofuel to drink (Straw required).",
+  
   "advancements.create_sky.trident.title": "Big Fork",
   "advancements.create_sky.trident.description": "Just craft the fork...",
+  
   "advancements.create_sky.water.title": "Rainy Days",
   "advancements.create_sky.water.description": "Take water from a with rain filled Cauldron.\n\nIn the meantime, until the cauldron is full, you can relax a bit, chat with friends, just stand around AFK or build wood and gravel farms.",
+  
   "advancements.create_sky.wool.title": "Prepared for Phantoms",
   "advancements.create_sky.wool.description": "Why not make your bedding for your bed from Canvas?",
+  
   
   "functions.create_sky.register_player.spawn_message": "Turn to determine the position of your island. If the marker is green, you can create the island with %s, if the marker is red, nothing happens."
 }
