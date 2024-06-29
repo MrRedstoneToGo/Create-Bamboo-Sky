@@ -1,0 +1,18 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "minecraft:packed_mud"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "item": "minecraft:mud"
+    },
+    {
+      "item": "supplementaries:flax",
+      "chance": 0.25
+    }
+  ]
+}
