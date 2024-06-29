@@ -1,5 +1,5 @@
 {
-  "parent": "create_sky_additions:create_sky/bamboo_planks",
+  "parent": "create_sky_additions:create_sky/mixer",
   "criteria": {
     "wool": {
       "trigger": "minecraft:recipe_crafted",
