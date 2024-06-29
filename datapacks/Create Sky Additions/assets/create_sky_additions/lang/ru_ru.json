@@ -72,6 +72,9 @@
   "advancements.create_sky.limestone.title": "Известняк",
   "advancements.create_sky.limestone.description": "Создайте генератор булыжника с помощью мёда (жидкость) и лавой (смотрите линию достижений с адом).%sПопробуйте также другие жидкости в комбинации с лавой. Некоторые будут реагировать, другие нет.",
 
+  "advancements.create_sky.mixer.title": "Производство с использованием жидкостей...",
+  "advancements.create_sky.mixer.description": "Изготовьте миксер, чтобы сделать грязь немного влажной.",
+  
   "advancements.create_sky.netherite_scrap.title": "Прочный лист, но из незерита",
   "advancements.create_sky.netherite_scrap.description": "Облейте незерский кирпич лавой, покройте прочным листом и покройте незеритовой мукой. Повторив это 8 раз, вы получите ... обломки.",
 
@@ -110,7 +113,8 @@
   "advancements.create_sky.water.description": "Возьмите воду из заполненного дождём котла.\n\nТем временем, пока котёл не заполнится, вы можете немного расслабиться, пообщаться с друзьями, просто постоять AFK или построить фермы древесины и гравия.",
 
   "advancements.create_sky.wool.title": "Готовность к фантомам",
-  "advancements.create_sky.wool.description": "Почему бы не сделать постельное бельё для вашей кровати из холста?",
+  "advancements.create_sky.wool.description": "Почему бы не сделать постельное бельё для вашей кровати из льна?",
 
-  "functions.create_sky.register_player.spawn_message": "Повернитесь, чтобы определить положение вашего острова. Если маркер зелёный, вы можете создать остров с %s, если маркер красный, ничего не произойдёт."
+  "functions.create_sky.register_player.spawn_message": "Повернитесь, чтобы определить положение вашего острова. Если маркер зелёный, вы можете создать остров с %s, если маркер красный, ничего не произойдёт.",
+  "functions.create_sky.cannot_place_island": "Вы не можете разместить здесь остров."
 }

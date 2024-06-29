@@ -72,6 +72,9 @@
   "advancements.create_sky.limestone.title": "Salzstein",
   "advancements.create_sky.limestone.description": "Mache einen Bruchstein-Generator mit Honig (Flüssigkeit) und Lava (siehe Fortschrittslinie mit Nether-Zeug).%sVersuche auch andere Flüssigkeiten in Kombination mit Lava. Manche reagieren mit ihr, manche nicht.",
   
+  "advancements.create_sky.mixer.title": "Crafting mit Flüssigkeiten...",
+  "advancements.create_sky.mixer.description": "Stelle einen Mixer her, um die Erde ein wenig nass zu machen.",
+  
   "advancements.create_sky.netherite_scrap.title": "Ein robustes Blech, aber netherfiziert",
   "advancements.create_sky.netherite_scrap.description": "Lege Netherziegel unter einen Ausguss, lege ein stabiles Blatt und Aschenmehl darauf und presse es. Nachdem du das 8 Mal wiederholt hast, erhältst du ... Schutt.",
   
@@ -110,8 +113,8 @@
   "advancements.create_sky.water.description": "Nimm Wasser aus einem mit Regen gefüllten Kessel. In der Zwischenzeit, bis der Kessel voll ist, kannst du dich ein wenig entspannen, mit Freunden chatten, einfach nur AFK herumstehen oder Holz- und Kiesfarmen bauen.",
   
   "advancements.create_sky.wool.title": "Vorbereitet auf Phantome",
-  "advancements.create_sky.wool.description": "Warum nicht das Bettzeug für dein Bett aus Canvas herstellen?",
-  
-  
-  "functions.create_sky.register_player.spawn_message": "Drehe dich, um die Position deiner Insel zu bestimmen. Wenn der Marker grün ist, kannst du die Insel mit %s erstellen, wenn der Marker rot ist, passiert nichts."
+  "advancements.create_sky.wool.description": "Warum nicht das Bettzeug für dein Bett aus Flachs herstellen?",
+   
+  "functions.create_sky.register_player.spawn_message": "Drehe dich, um die Position deiner Insel zu bestimmen. Wenn der Marker grün ist, kannst du die Insel mit %s erstellen, wenn der Marker rot ist, passiert nichts.",
+  "functions.create_sky.cannot_place_island": "Du kannst hier keine Insel hinsetzen."
 }

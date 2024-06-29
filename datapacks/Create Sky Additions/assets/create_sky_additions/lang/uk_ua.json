@@ -71,6 +71,9 @@
   
   "advancements.create_sky.limestone.title": "Вапняк",
   "advancements.create_sky.limestone.description": "Створіть генератор кругляку за допомогою меду (рідина) та лави (Дивіться лінію досягнень з незером).%sСпробуйте також інші рідини в комбинаці з лавою. Декотрі будуть реагувати, інші ні.",
+
+  "advancements.create_sky.mixer.title": "Виробництво з рідинами...",
+  "advancements.create_sky.mixer.description": "Зробіть міксер, щоб зробити бруд трохи вологим.",
   
   "advancements.create_sky.netherite_scrap.title": "Міцний лист, но з незериту",
   "advancements.create_sky.netherite_scrap.description": "Облийте незерску цеглу лавою, покрийте міцним листом та покрийте незеритовою мукою. Повторивши це 8 раз, вы отримаєте ... обломки.",
@@ -110,7 +113,8 @@
   "advancements.create_sky.water.description": "Візьмітиь воду з наповненого дощем казана.\n\nТим часом, поки казан не наповниться, ви можетое трішки розслабитись, поговоріть з друзьями, просто постійте в AFK або пободуйте ферми дерева чи гравію.",
   
   "advancements.create_sky.wool.title": "Готовність до фантомів",
-  "advancements.create_sky.wool.description": "Чому б не зробити постільну білизну для свого ліжка з холсту?",
+  "advancements.create_sky.wool.description": "Чому б не зробити постільну білизну для свого ліжка з льону?",
   
-  "functions.create_sky.register_player.spawn_message": "Поверніться, щоб вибравити положение вашого острову. якщо маркер зелений, ви зможете створити острів з %s, якщо маркер червоний, нічого не станеться."
+  "functions.create_sky.register_player.spawn_message": "Поверніться, щоб вибравити положение вашого острову. якщо маркер зелений, ви зможете створити острів з %s, якщо маркер червоний, нічого не станеться.",
+  "functions.create_sky.cannot_place_island": "Тут не можна поставити острів..."
 }

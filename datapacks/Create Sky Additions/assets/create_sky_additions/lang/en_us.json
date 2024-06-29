@@ -72,6 +72,9 @@
   "advancements.create_sky.limestone.title": "Saltstone",
   "advancements.create_sky.limestone.description": "Make a Cobblestone Generator with Honey (fluid) and Lava (See advancement line with nether stuff).%sTry also other fluids in combination with Lava. Some will react with it, some won't.",
   
+  "advancements.create_sky.mixer.title": "Crafting with fluids...",
+  "advancements.create_sky.mixer.description": "Make a mixer to make your dirt a bit wet.",
+  
   "advancements.create_sky.netherite_scrap.title": "A Sturdy Sheet, but netherfied",
   "advancements.create_sky.netherite_scrap.description": "Put Nether Bricks under a spout, deploy a Sturdy Sheet and Cinder Flour on it and press it. After repeating this 8 times, you will get ... rubble.",
   
@@ -110,8 +113,8 @@
   "advancements.create_sky.water.description": "Take water from a with rain filled Cauldron.\n\nIn the meantime, until the cauldron is full, you can relax a bit, chat with friends, just stand around AFK or build wood and gravel farms.",
   
   "advancements.create_sky.wool.title": "Prepared for Phantoms",
-  "advancements.create_sky.wool.description": "Why not make your bedding for your bed from Canvas?",
+  "advancements.create_sky.wool.description": "Why not make your bedding for your bed from Flax?",
   
-  
-  "functions.create_sky.register_player.spawn_message": "Turn to determine the position of your island. If the marker is green, you can create the island with %s, if the marker is red, nothing happens."
+  "functions.create_sky.register_player.spawn_message": "Turn to determine the position of your island. If the marker is green, you can create the island with %s, if the marker is red, nothing happens.",
+  "functions.create_sky.cannot_place_island": "You cannot place an island here."
 }
