@@ -1,0 +1,30 @@
+{
+  "parent": "create_sky_additions:create_sky/slicer",
+  "criteria": {
+    "mixer": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "create:crafting/kinetics/mechanical_mixer"
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_sky.mixer.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "create:mechanical_mixer"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_sky.mixer.title"
+    }
+  },
+  "requirements": [
+    ["mixer"]
+  ],
+  "sends_telemetry_event": true
+}
