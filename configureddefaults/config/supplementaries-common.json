@@ -1,0 +1,19 @@
+{
+  "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
+  "redstone": {
+    "turn_table": {
+      "enabled": false
+    },
+    "pulley_block": {
+      "enabled": false
+    },
+    "clock_block": false,
+    "crank": false,
+    "cog_block": false
+  },
+  "tools": {
+    "wrench": {
+      "enabled": false
+    }
+  }
+}
