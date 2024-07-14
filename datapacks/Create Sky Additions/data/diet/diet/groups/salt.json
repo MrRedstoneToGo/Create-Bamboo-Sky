@@ -1,0 +1,9 @@
+{
+  "icon": "garnished:salt_compound",
+  "color": "#ffffff",
+  "order": 0,
+  "default_value": 0.0,
+  "gain_multiplier": 2.5,
+  "decay_multiplier": 4.0,
+  "beneficial": true
+}

@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:create_bamboo_sky/string",
+  "criteria": {
+    "spawn_eggs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:camel_spawn_egg", "minecraft:cat_spawn_egg", "minecraft:chicken_spawn_egg", "minecraft:donkey_spawn_egg", "minecraft:llama_spawn_egg", "minecraft:horse_spawn_egg", "minecraft:fox_spawn_egg", "minecraft:mooshroom_spawn_egg", "minecraft:ocelot_spawn_egg", "minecraft:panda_spawn_egg", "minecraft:parrot_spawn_egg", "minecraft:pig_spawn_egg", "minecraft:rabbit_spawn_egg", "minecraft:sheep_spawn_egg", "minecraft:wolf_spawn_egg"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_sky.spawn_egg.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:wolf_spawn_egg"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_sky.spawn_egg.title"
+    }
+  },
+  "requirements": [
+    ["spawn_eggs"]
+  ],
+  "sends_telemetry_event": true
+}

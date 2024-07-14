@@ -46,11 +46,11 @@
                 {
                   "type": "minecraft:item",
                   "name": "minecraft:flint",
-                  "weight": 2
+                  "weight": 3
                 },
                 {
                   "type": "minecraft:item",
-                  "name": "minecraft:iron_nugget"
+                  "name": "create:crushed_raw_iron"
                 }
               ]
             },

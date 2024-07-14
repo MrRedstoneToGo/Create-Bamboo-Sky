@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:create_bamboo_sky/water",
+  "criteria": {
+    "string": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:string"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_sky.string.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "supplementaries:flax"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_sky.string.title"
+    }
+  },
+  "requirements": [
+    ["string"]
+  ],
+  "sends_telemetry_event": true
+}

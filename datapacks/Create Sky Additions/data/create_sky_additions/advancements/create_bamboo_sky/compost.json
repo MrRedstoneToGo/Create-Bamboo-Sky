@@ -1,0 +1,55 @@
+{
+  "parent": "create_sky_additions:create_bamboo_sky/bamboo_planks",
+  "criteria": {
+        "compost_bamboo": {
+            "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": ["minecraft:composter"],
+                "state": {
+                  "level": 7
+                }
+              }
+            }
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": ["farmersdelight:straw"]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_sky.compost.description",
+      "with": [
+        [
+          "\n\n",
+          {"translate": "advancements.create_bamboo_sky.word_tip", "bold": true, "color": "yellow"},
+          ": "
+        ]
+      ]
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:composter"
+    },
+    "show_toast": true,
+    "title": {
+      "translate":  "advancements.create_bamboo_sky.compost.title"
+    }
+  },
+  "requirements": [
+    ["compost_bamboo"]
+  ],
+  "sends_telemetry_event": false
+}

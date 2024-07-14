@@ -1,120 +1,119 @@
 {
-  "advancements.create_sky.word_tip": "Совет",
-
-  "advancements.create_sky.amethyst.title": "Полированный кварц",
-  "advancements.create_sky.amethyst.description": "Отполируйте незер-кварц. Если у вас есть несколько аметистов вместе, вы также можете создать блок прорастающего аметиста и собрать аметисты с него.",
-
-  "advancements.create_sky.bamboo_planks.title": "Пропустите брёвна",
-  "advancements.create_sky.bamboo_planks.description.info": "Бамбуковые доски теперь можно создавать в поле 2x2 в вашем инвентаре.",
-  "advancements.create_sky.bamboo_planks.description.important": "Важно! Следующее необходимо для дальнейшей игры.",
-  "advancements.create_sky.bamboo_planks.description.tip": "Наведите курсор на предмет и либо %s или нажмите %s, чтобы показать его %s или %s или нажмите %s, чтобы показать его %s.",
-  "advancements.create_sky.bamboo_planks.description.left_click": "Левый клик",
-  "advancements.create_sky.bamboo_planks.description.right_click": "Правый клик",
-  "advancements.create_sky.bamboo_planks.description.recipes": "рецепты",
-  "advancements.create_sky.bamboo_planks.description.uses": "использования",
-
-  "advancements.create_sky.blackstone.title": "Торговцы чёрнитом",
-  "advancements.create_sky.blackstone.description": "Получите чёрнит от Пиглина. Позже вы можете раздробить его, чтобы получить уголь, который, в сжатом виде, даёт алмазы при дроблении.",
-
-  "advancements.create_sky.chorus.title": "Хорусное время",
-  "advancements.create_sky.chorus.description": "Удобряйте эндерняк опустошеннной посыпкой для получения телепортационного растения.",
-
-  "advancements.create_sky.compost.title": "Назад к природе",
-  "advancements.create_sky.compost.description": "Компостируйте солому, которую вы получаете, очищая бамбуковые блоки на разделочной доске. Затем нарежьте свежий компост любой лопатой.%sПоложите предмет для нарезки в левую руку, а инструмент в правую и удерживайте правую кнопку мыши! Кстати, бамбук можно мгновенно добывать мечом.",
-
-  "advancements.create_sky.copper_nugget.title": "Сокровища из глины",
-  "advancements.create_sky.copper_nugget.description": "Как только вы измельчите кирпичи для получения меди, вы готовы получить свою первую латунь, если вы уже не получили её от друзей :)",
-
-  "advancements.create_sky.dripstone.title": "Кап-кап-кап",
-  "advancements.create_sky.dripstone.description": "Промойте известняк, чтобы получить капельник, и высушите грязь на нём.",
-
-  "advancements.create_sky.electron_tube.title": "Электронная лампа",
-  "advancements.create_sky.electron_tube.description": "Отполируйте немного розового кварца и создайте электронные лампы сочетая его с железным листом.",
-
-  "advancements.create_sky.emerald.title": "Настоящая валюта",
-  "advancements.create_sky.emerald.description": "Создайте гранит и измельчите его, чтобы получить изумруды.",
-
-  "advancements.create_sky.empty_blaze_burner.title": "Клетка для ифрита",
-  "advancements.create_sky.empty_blaze_burner.description": "Создайте дом для вашего будущего горячего друга.",
-
-  "advancements.create_sky.end_stone.title": "Эндерняк",
-  "advancements.create_sky.end_stone.description": "Чернит действительно должен очень сильно остыть...",
-
-  "advancements.create_sky.ender_pearl.title": "Торговцы эндер-жемчугами",
-  "advancements.create_sky.ender_pearl.description": "Получите эндер-жемчуг от Пиглина. Вам понадобятся они позже для эндер-желе.%sКстати, вы можете выращивать эндер-жемчуг с семянами края.",
-
-  "advancements.create_sky.flint.title": "Кремень",
-  "advancements.create_sky.flint.description": "Разрежьте землю с камнями.%sВы можете сделать кремень позже, разрезав гравий лопатой на разделочной доске. Так вам не придётся компостировать огромное количество соломы.",
-
-  "advancements.create_sky.gold_nugget.title": "Песчаные сокровища",
-  "advancements.create_sky.gold_nugget.description": "Измельчите терракоту и промойте результат.",
-
-  "advancements.create_sky.grow_flowers.title": "Цветные цветы",
-  "advancements.create_sky.grow_flowers.description": "Удобряйте блок травы и посмотрите, какие красивые цветы вырастут!",
-
-  "advancements.create_sky.honey.title": "Жужжащие деревья",
-  "advancements.create_sky.honey.description": "Пусть несколько пчёл поселятся в вишнёвом дереве и собирайте с них мёд.%sСтеклянные бутылки можно получить, выпив выловленные бутылки с водой пустыми.",
-
-  "advancements.create_sky.ice.title": "Новый агрегат",
-  "advancements.create_sky.ice.description": "Разбейте ледяные блоки от ледяной хотьбы киркой с зачарованием \"Шёлковое касание\".",
-
-  "advancements.create_sky.iron_nugget.title": "Получение самородков",
-  "advancements.create_sky.iron_nugget.description": "Разбейте гравий, присев, чтобы получить новый камешек.",
-
-  "advancements.create_sky.kelp.title": "Конвейерная ламинария",
-  "advancements.create_sky.kelp.description": " Выловите ламинарию для вашего механического ремня.",
-
-  "advancements.create_sky.lapis_lazuli.title": "Зачаровывающий порошок",
-  "advancements.create_sky.lapis_lazuli.description": "[Требуется латунь]: Смешайте синий краситель с незеритовой мукой для получения лазурита.",
-
-  "advancements.create_sky.lava.description": "Заполните ведро 20 сильно нагретыми булыжниками.",
-
-  "advancements.create_sky.limestone.title": "Известняк",
-  "advancements.create_sky.limestone.description": "Создайте генератор булыжника с помощью мёда (жидкость) и лавой (смотрите линию достижений с адом).%sПопробуйте также другие жидкости в комбинации с лавой. Некоторые будут реагировать, другие нет.",
-
-  "advancements.create_sky.mixer.title": "Производство с использованием жидкостей...",
-  "advancements.create_sky.mixer.description": "Изготовьте миксер, чтобы сделать грязь немного влажной.",
+  "advancements.create_bamboo_sky.word_tip": "Совет",
   
-  "advancements.create_sky.netherite_scrap.title": "Прочный лист, но из незерита",
-  "advancements.create_sky.netherite_scrap.description": "Облейте незерский кирпич лавой, покройте прочным листом и покройте незеритовой мукой. Повторив это 8 раз, вы получите ... обломки.",
-
-  "advancements.create_sky.netherrack.title": "Охлаждённая магма",
-  "advancements.create_sky.netherrack.description": "Заморозьте блок магмы, пока не сможете ходить по нему.",
-
-  "advancements.create_sky.quartz.title": "Торговцы кварцем",
-  "advancements.create_sky.quartz.description": "Получите незер-кварц от Пиглина.",
-
-  "advancements.create_sky.root.title": "Криейт: бамбук и небо",
-  "advancements.create_sky.root.description": "Добро пожаловать в мой модпак криейт скайблок. Я добавил несколько рецептов, которые делают возможным получить ресурсы Криейт из всего одного бамбука! С этим руководством в достижениях (%s) я проведу вас через первые шаги от бамбука до латуни. Удачи!",
-  "advancements.create_sky.root.description.press_l": "нажмите L",
-
-  "advancements.create_sky.sculk_catalyst.title": "Катализатор",
-  "advancements.create_sky.sculk_catalyst.description": "Положите эндерняк под несколько машин и у вас будет всё, что нужно для скалка.",
-
-  "advancements.create_sky.slicer.title": "Авто кухня",
-  "advancements.create_sky.slicer.description": "Вы, вероятно, быстро осознали, что вам придётся нарезать много гравия вручную для создания котла. Давайте автоматизируем это с помощью слайсера...%sВы можете запитать ваш слайсер с помощью водяного колеса, которое может работаеть на соломе. Последнюю можно получить, розкрыв снопы сена с помощью ножниц.",
-
-  "advancements.create_sky.slime_ball.title": "Липкое тесто",
-  "advancements.create_sky.slime_ball.description": "Слизистые шары - это по сути просто известковое тесто, верно?",
-
-  "advancements.create_sky.soul_sand.title": "Торговцы песком душ",
-  "advancements.create_sky.soul_sand.description": "Получите песок душ от Пиглина. Вам это нужно для наведения ужаса.",
-
-  "advancements.create_sky.spawn_egg.title": "Место рождения",
-  "advancements.create_sky.spawn_egg.description": "Позвольте нюхачу с вынюхивать яйца призыва.",
-
-  "advancements.create_sky.super_heated.title": "Возобновляемое топливо",
-  "advancements.create_sky.super_heated.description": "Дайте всполоху в горелке биотопливо (требуется солома).",
-
-  "advancements.create_sky.trident.title": "Большая вилка",
-  "advancements.create_sky.trident.description": "Просто создайте вилку...",
-
-  "advancements.create_sky.water.title": "Дождливые дни",
-  "advancements.create_sky.water.description": "Возьмите воду из заполненного дождём котла.\n\nТем временем, пока котёл не заполнится, вы можете немного расслабиться, пообщаться с друзьями, просто постоять AFK или построить фермы древесины и гравия.",
-
-  "advancements.create_sky.wool.title": "Готовность к фантомам",
-  "advancements.create_sky.wool.description": "Почему бы не сделать постельное бельё для вашей кровати из льна?",
-
+  "advancements.create_bamboo_sky.amethyst.title": "Полированный кварц",
+  "advancements.create_bamboo_sky.amethyst.description": "Отполируйте незер-кварц. Если у вас есть несколько аметистов вместе, вы также можете создать блок прорастающего аметиста и собрать аметисты с него.",
+  
+  "advancements.create_bamboo_sky.bamboo_planks.title": "Пропустите брёвна",
+  "advancements.create_bamboo_sky.bamboo_planks.description.info": "Бамбуковые доски теперь можно создавать в поле 2x2 в вашем инвентаре.",
+  "advancements.create_bamboo_sky.bamboo_planks.description.important": "Важно! Следующее необходимо для дальнейшей игры.",
+  "advancements.create_bamboo_sky.bamboo_planks.description.tip": "Наведите курсор на предмет и либо %s или нажмите %s, чтобы показать его %s или %s или нажмите %s, чтобы показать его %s.",
+  "advancements.create_bamboo_sky.bamboo_planks.description.left_click": "Левый клик",
+  "advancements.create_bamboo_sky.bamboo_planks.description.right_click": "Правый клик",
+  "advancements.create_bamboo_sky.bamboo_planks.description.recipes": "рецепты",
+  "advancements.create_bamboo_sky.bamboo_planks.description.uses": "использования",
+  
+  "advancements.create_bamboo_sky.blackstone.title": "Торговцы чёрнитом",
+  "advancements.create_bamboo_sky.blackstone.description": "Получите чёрнит от Пиглина. Позже вы можете раздробить его, чтобы получить уголь, который, в сжатом виде, даёт алмазы при дроблении.",
+  
+  "advancements.create_bamboo_sky.chorus.title": "Хорусное время",
+  "advancements.create_bamboo_sky.chorus.description": "Удобряйте эндерняк опустошеннной посыпкой для получения телепортационного растения.",
+  
+  "advancements.create_bamboo_sky.compost.title": "Назад к природе",
+  "advancements.create_bamboo_sky.compost.description": "Компостируйте солому, которую вы получаете, очищая бамбуковые блоки на разделочной доске. Затем нарежьте свежий компост любой лопатой.%sПоложите предмет для нарезки в левую руку, а инструмент в правую и удерживайте правую кнопку мыши! Кстати, бамбук можно мгновенно добывать мечом.",
+  
+  "advancements.create_bamboo_sky.crushed_raw_iron.title": "Получение самородков",
+  "advancements.create_bamboo_sky.crushed_raw_iron.description": "Разбейте гравий, присев, чтобы получить еще несколько ценных камешек.",
+  
+  "advancements.create_bamboo_sky.copper_nugget.title": "Сокровища из глины",
+  "advancements.create_bamboo_sky.copper_nugget.description": "Как только вы измельчите кирпичи для получения меди, вы готовы получить свою первую латунь, если вы уже не получили её от друзей :)",
+  
+  "advancements.create_bamboo_sky.dripstone.title": "Кап-кап-кап",
+  "advancements.create_bamboo_sky.dripstone.description": "Промойте известняк, чтобы получить капельник, и высушите грязь на нём.",
+  
+  "advancements.create_bamboo_sky.electron_tube.title": "Электронная лампа",
+  "advancements.create_bamboo_sky.electron_tube.description": "Отполируйте немного розового кварца и создайте электронные лампы сочетая его с железным листом.",
+  
+  "advancements.create_bamboo_sky.emerald.title": "Настоящая валюта",
+  "advancements.create_bamboo_sky.emerald.description": "Создайте гранит и измельчите его, чтобы получить изумруды.",
+  
+  "advancements.create_bamboo_sky.empty_blaze_burner.title": "Клетка для ифрита",
+  "advancements.create_bamboo_sky.empty_blaze_burner.description": "Создайте дом для вашего будущего горячего друга.",
+  
+  "advancements.create_bamboo_sky.end_stone.title": "Эндерняк",
+  "advancements.create_bamboo_sky.end_stone.description": "Чернит действительно должен очень сильно остыть...",
+  
+  "advancements.create_bamboo_sky.ender_pearl.title": "Торговцы эндер-жемчугами",
+  "advancements.create_bamboo_sky.ender_pearl.description": "Получите эндер-жемчуг от Пиглина. Вам понадобятся они позже для эндер-желе.%sКстати, вы можете выращивать эндер-жемчуг с семянами края.",
+  
+  "advancements.create_bamboo_sky.flint.title": "Кремень",
+  "advancements.create_bamboo_sky.flint.description": "Разрежьте землю с камнями.%sВы можете сделать кремень позже, разрезав гравий лопатой на разделочной доске. Так вам не придётся компостировать огромное количество соломы.",
+  
+  "advancements.create_bamboo_sky.gold_nugget.title": "Песчаные сокровища",
+  "advancements.create_bamboo_sky.gold_nugget.description": "Измельчите терракоту и промойте результат.",
+  
+  "advancements.create_bamboo_sky.grow_flowers.title": "Цветные цветы",
+  "advancements.create_bamboo_sky.grow_flowers.description": "Удобряйте блок травы и посмотрите, какие красивые цветы вырастут!",
+  
+  "advancements.create_bamboo_sky.honey.title": "Жужжащие деревья",
+  "advancements.create_bamboo_sky.honey.description": "Пусть несколько пчёл поселятся в вишнёвом дереве и собирайте с них мёд.%sСтеклянные бутылки можно получить, выпив выловленные бутылки с водой пустыми.",
+  
+  "advancements.create_bamboo_sky.ice.title": "Новый агрегат",
+  "advancements.create_bamboo_sky.ice.description": "Разбейте ледяные блоки от ледяной хотьбы киркой с зачарованием \"Шёлковое касание\".",
+  
+  "advancements.create_bamboo_sky.kelp.title": "Конвейерная ламинария",
+  "advancements.create_bamboo_sky.kelp.description": " Выловите ламинарию для вашего механического ремня.",
+  
+  "advancements.create_bamboo_sky.lapis_lazuli.title": "Зачаровывающий порошок",
+  "advancements.create_bamboo_sky.lapis_lazuli.description": "[Требуется латунь]: Смешайте синий краситель с незеритовой мукой для получения лазурита.",
+    
+  "advancements.create_bamboo_sky.lava.description": "Заполните ведро 20 сильно нагретыми булыжниками.",
+  
+  "advancements.create_bamboo_sky.limestone.title": "Известняк",
+  "advancements.create_bamboo_sky.limestone.description": "Создайте генератор булыжника с помощью мёда (жидкость) и лавой (смотрите линию достижений с адом).%sПопробуйте также другие жидкости в комбинации с лавой. Некоторые будут реагировать, другие нет.",
+  
+  "advancements.create_bamboo_sky.netherite_scrap.title": "Прочный лист, но из незерита",
+  "advancements.create_bamboo_sky.netherite_scrap.description": "Облейте незерский кирпич лавой, покройте прочным листом и покройте незеритовой мукой. Повторив это 8 раз, вы получите ... обломки.",
+  
+  "advancements.create_bamboo_sky.netherrack.title": "Охлаждённая магма",
+  "advancements.create_bamboo_sky.netherrack.description": "Заморозьте блок магмы, пока не сможете ходить по нему.",
+  
+  "advancements.create_bamboo_sky.quartz.title": "Торговцы кварцем",
+  "advancements.create_bamboo_sky.quartz.description": "Получите незер-кварц от Пиглина.",
+  
+  "advancements.create_bamboo_sky.root.title": "Криейт: бамбук и небо",
+  "advancements.create_bamboo_sky.root.description": "Добро пожаловать в мой модпак криейт скайблок. Я добавил несколько рецептов, которые делают возможным получить ресурсы Криейт из всего одного бамбука! С этим руководством в достижениях (%s) я проведу вас через первые шаги от бамбука до латуни. Удачи!",
+  "advancements.create_bamboo_sky.root.description.press_l": "нажмите L",
+  
+  "advancements.create_bamboo_sky.sculk_catalyst.title": "Катализатор",
+  "advancements.create_bamboo_sky.sculk_catalyst.description": "Положите эндерняк под несколько машин и у вас будет всё, что нужно для скалка.",
+  
+  "advancements.create_bamboo_sky.slicer.title": "Авто кухня",
+  "advancements.create_bamboo_sky.slicer.description": "Вы, вероятно, быстро осознали, что вам придётся нарезать много гравия вручную для создания котла. Давайте автоматизируем это с помощью слайсера...%sВы можете запитать ваш слайсер с помощью водяного колеса, которое может работаеть на соломе. Последнюю можно получить, розкрыв снопы сена с помощью ножниц.",
+  
+  "advancements.create_bamboo_sky.slime_ball.title": "Липкое тесто",
+  "advancements.create_bamboo_sky.slime_ball.description": "Слизистые шары - это по сути просто известковое тесто, верно?",
+  
+  "advancements.create_bamboo_sky.soul_sand.title": "Торговцы песком душ",
+  "advancements.create_bamboo_sky.soul_sand.description": "Получите песок душ от Пиглина. Вам это нужно для наведения ужаса.",
+  
+  "advancements.create_bamboo_sky.spawn_egg.title": "Раскопки в поисках места своего рождения",
+  "advancements.create_bamboo_sky.spawn_egg.description": "Позвольте нюхачу с вынюхивать яйца призыва.",
+  
+  "advancements.create_bamboo_sky.string.title": "Льняная ткань",
+  "advancements.create_bamboo_sky.string.description": "Из льна делают нити. Ее можно использовать для изготовления рыболовных удочек или ткани для кроватей.",
+  
+  "advancements.create_bamboo_sky.super_heated.title": "Возобновляемое топливо",
+  "advancements.create_bamboo_sky.super_heated.description": "Дайте всполоху в горелке биотопливо (требуется солома).",
+  
+  "advancements.create_bamboo_sky.trident.title": "Большая вилка",
+  "advancements.create_bamboo_sky.trident.description": "Просто создайте вилку...",
+  
+  "advancements.create_bamboo_sky.water.title": "Дождливые дни",
+  "advancements.create_bamboo_sky.water.description": "Возьмите воду из котла, наполненного дождем.\n\nКак только у вас появится бесконечный источник воды, вы сможете снова наполнить котел водой и вылить ее на почву с помощью крана.",
+  
+  "groups.diet.salt.name": "Соль",
+  
   "functions.create_sky.register_player.spawn_message": "Повернитесь, чтобы определить положение вашего острова. Если маркер зелёный, вы можете создать остров с %s, если маркер красный, ничего не произойдёт.",
   "functions.create_sky.cannot_place_island": "Вы не можете разместить здесь остров."
 }
