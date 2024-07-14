@@ -20,7 +20,7 @@
     "frame": "task",
     "hidden": false,
     "icon": {
-      "item": "minecraft:wolf_spawn_egg"
+      "item": "minecraft:sniffer_egg"
     },
     "show_toast": true,
     "title": {

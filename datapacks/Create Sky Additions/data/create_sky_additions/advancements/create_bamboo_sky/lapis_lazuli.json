@@ -20,7 +20,7 @@
     "frame": "task",
     "hidden": false,
     "icon": {
-      "item": "minecraft:lapis_lazuli"
+      "item": "create:cinder_flour"
     },
     "show_toast": true,
     "title": {
