@@ -110,6 +110,7 @@
   "advancements.create_bamboo_sky.water.description": "Take water from a Rain Gutter.\n\nYou can fill a Cauldron with this water now and pour it onto Dirt with a Faucet.",
   
   "create_sky_additions.word_chance": "Chance",
+  "create_sky_additions.interaction.place_dripstone_under_block_under_mud": "Place the Pointed Dripstone on the bottom surface of any solid block that has Mud on it.",
   "emi.info.fishing_fish": "Can be fished as fish.",
   "emi.info.fishing_junk": "Can be fished as junk.",
   "emi.info.fishing_treasure": "Can be fished as treasure.",

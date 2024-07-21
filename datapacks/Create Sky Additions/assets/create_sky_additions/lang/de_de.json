@@ -110,6 +110,7 @@
   "advancements.create_bamboo_sky.water.description": "Nimm Wasser aus einer Regenrinne. Du kannst jetzt einen Kessel mit diesem Wasser füllen und es mit einem Wasserhahn auf Erde gießen.",
   
   "create_sky_additions.word_chance": "Chance",
+  "create_sky_additions.interaction.place_dripstone_under_block_under_mud": "Lege den Spitzen Tropfstein auf die Unterseite eines soliden Blocks, auf dem sich Schlamm befindet.",
   "emi.info.fishing_fish": "Kann als Fisch geangelt werden.",
   "emi.info.fishing_junk": "Kann als Müll gefischt werden.",
   "emi.info.fishing_treasure": "Kann als Schatz geangelt werden.",

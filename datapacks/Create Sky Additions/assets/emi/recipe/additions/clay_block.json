@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "item:minecraft:mud",
+  "right": "item:minecraft:pointed_dripstone{display: {Lore: ['{\"translate\": \"create_sky_additions.interaction.place_dripstone_under_block_under_mud\", \"color\": \"gray\", \"italic\": false}']}}",
+  "output": "item:minecraft:clay"
+}

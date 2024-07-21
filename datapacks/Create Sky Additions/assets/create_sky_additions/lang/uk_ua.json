@@ -110,6 +110,7 @@
   "advancements.create_bamboo_sky.water.description": "Візьміть воду з водостоку.\n\nТепер ви можете наповнити цією водою Казан і вилити її на Бруд за допомогою крана.",
   
   "create_sky_additions.word_chance": "Ченс",
+  "create_sky_additions.interaction.place_dripstone_under_block_under_mud": "Покладіть загострений крапельник на нижню поверхню будь-якого твердого блоку, на якому є бруд.",
   "emi.info.fishing_fish": "Можна ловити як рибу.",
   "emi.info.fishing_junk": "Може бути виловлений як непотріб.",
   "emi.info.fishing_treasure": "Можна виловити як скарб.",

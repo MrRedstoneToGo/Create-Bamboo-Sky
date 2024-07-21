@@ -110,6 +110,7 @@
   "advancements.create_bamboo_sky.water.description": "Возьмите воду из дождевого желоба.\n\nВы можете наполнить этой водой котел и вылить ее на грязь с помощью крана.",
   
   "create_sky_additions.word_chance": "шанс",
+  "create_sky_additions.interaction.place_dripstone_under_block_under_mud": "Поместите заостренный каплевидный камень на нижнюю поверхность любого твердого блока, на котором есть грязь.",
   "emi.info.fishing_fish": "Можно ловить как рыбу.",
   "emi.info.fishing_junk": "Можно ловить как хлам.",
   "emi.info.fishing_treasure": "Можно ловить как сокровище.",
