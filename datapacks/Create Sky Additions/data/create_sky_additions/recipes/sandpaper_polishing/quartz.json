@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "minecraft:quartz"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:amethyst_shard"
+    }
+  ]
+}

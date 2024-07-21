@@ -1,0 +1,30 @@
+{
+  "parent": "create_sky_additions:create_bamboo_sky/netherrack",
+  "criteria": {
+    "empty_blaze_burner": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "create:crafting/kinetics/empty_blaze_burner"
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_sky.empty_blaze_burner.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "create:empty_blaze_burner"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_sky.empty_blaze_burner.title"
+    }
+  },
+  "requirements": [
+    ["empty_blaze_burner"]
+  ],
+  "sends_telemetry_event": true
+}

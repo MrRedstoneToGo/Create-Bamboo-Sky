@@ -1,0 +1,13 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:vine"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished:sorrowful_lichen"
+    }
+  ]
+}

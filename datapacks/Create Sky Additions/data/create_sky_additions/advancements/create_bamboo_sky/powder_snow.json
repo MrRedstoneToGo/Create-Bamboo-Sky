@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:create_bamboo_sky/water",
+  "criteria": {
+    "snow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:powder_snow_bucket"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_sky.powder_snow.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:snowball"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_sky.powder_snow.title"
+    }
+  },
+  "requirements": [
+    ["snow"]
+  ],
+  "sends_telemetry_event": true
+}

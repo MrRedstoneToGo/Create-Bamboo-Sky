@@ -1,0 +1,2 @@
+execute as @a unless score @s createIsland matches -1..1 run function create_sky_additions:register_player
+execute as @a[scores={createIsland=0..}] at @s run function create_sky_additions:choose_island

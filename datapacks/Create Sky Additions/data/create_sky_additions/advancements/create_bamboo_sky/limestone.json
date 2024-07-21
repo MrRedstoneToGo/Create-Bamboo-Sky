@@ -1,0 +1,41 @@
+{
+  "parent": "create_sky_additions:create_bamboo_sky/honey",
+  "criteria": {
+    "limestone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["create:limestone"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_sky.limestone.description",
+      "with": [
+        [
+          "\n\n",
+          {"translate": "advancements.create_bamboo_sky.word_tip", "bold": true, "color": "yellow"},
+          ": "
+        ]
+      ]
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "create:limestone"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_sky.limestone.title"
+    }
+  },
+  "requirements": [
+    ["limestone"]
+  ],
+  "sends_telemetry_event": true
+}

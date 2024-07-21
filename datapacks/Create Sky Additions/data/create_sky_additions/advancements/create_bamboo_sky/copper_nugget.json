@@ -1,0 +1,34 @@
+{
+  "parent": "create_sky_additions:create_bamboo_sky/dripstone",
+  "criteria": {
+    "copper_nugget": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["create:copper_nugget"]
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_sky.copper_nugget.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "create:copper_nugget"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_sky.copper_nugget.title"
+    }
+  },
+  "requirements": [
+    ["copper_nugget"]
+  ],
+  "sends_telemetry_event": true
+}

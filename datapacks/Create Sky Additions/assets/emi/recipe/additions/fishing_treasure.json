@@ -1,0 +1,14 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:minecraft:name_tag{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 10%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:saddle{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 10%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:bow{Damage: 192, Enchantments: [{}], display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 10%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:fishing_rod{Damage: 32, Enchantments: [{}], display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 10%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:enchanted_book{StoredEnchantments: [{}], display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 10%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:nautilus_shell{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 10%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:sniffer_egg{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 30%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:garnished:lustrous_pearl{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 10%\", \"color\": \"gold\", \"italic\": false}]']}}"
+  ],
+  "text": "emi.info.fishing_treasure"
+}

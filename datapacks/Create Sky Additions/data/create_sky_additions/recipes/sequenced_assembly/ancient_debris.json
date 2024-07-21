@@ -1,0 +1,81 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:nether_brick"
+  },
+  "loops": 8,
+  "results": [
+    {
+      "chance": 1.0,
+      "item": "minecraft:ancient_debris"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:nether_brick"
+        },
+        {
+          "amount": 8100,
+          "fluid": "minecraft:lava",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:nether_brick"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:nether_brick"
+        },
+        {
+          "item": "create:sturdy_sheet"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:nether_brick"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:nether_brick"
+        },
+        {
+          "item": "create:cinder_flour"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:nether_brick"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:nether_brick"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:nether_brick"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "minecraft:nether_brick"
+  }
+}

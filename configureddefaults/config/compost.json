@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "item": "farmersdelight:organic_compost",
+      "chance": 1.0,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

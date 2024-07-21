@@ -1,0 +1,13 @@
+{
+  "type": "garnished:freezing",
+  "ingredients": [
+    {
+      "item": "minecraft:panda_spawn_egg"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:polar_bear_spawn_egg"
+    }
+  ]
+}

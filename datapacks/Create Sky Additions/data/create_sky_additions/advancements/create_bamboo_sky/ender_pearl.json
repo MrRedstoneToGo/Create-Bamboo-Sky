@@ -1,0 +1,42 @@
+{
+  "parent": "create_sky_additions:create_bamboo_sky/gold_nugget",
+  "criteria": {
+    "ender_pearl": {
+      "trigger": "minecraft:thrown_item_picked_up_by_player",
+      "conditions": {
+        "item": {
+          "items": ["minecraft:ender_pearl"]
+        },
+        "entity": {
+          "type": "minecraft:piglin"
+        }
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_sky.ender_pearl.description",
+      "with": [
+        [
+          "\n\n",
+          {"translate": "advancements.create_bamboo_sky.word_tip", "bold": true, "color": "yellow"},
+          ": "
+        ]
+      ]
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:ender_pearl"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_sky.ender_pearl.title"
+    }
+  },
+  "requirements": [
+    ["ender_pearl"]
+  ],
+  "sends_telemetry_event": true
+}

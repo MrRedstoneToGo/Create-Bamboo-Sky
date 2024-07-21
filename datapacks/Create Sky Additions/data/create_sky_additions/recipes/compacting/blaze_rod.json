@@ -1,0 +1,21 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "amount": 40500,
+      "fluid": "minecraft:lava"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:blaze_rod"
+    }
+  ]
+}

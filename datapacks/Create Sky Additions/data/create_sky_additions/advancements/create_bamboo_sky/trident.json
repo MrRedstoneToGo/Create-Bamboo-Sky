@@ -1,0 +1,30 @@
+{
+  "parent": "create_sky_additions:create_bamboo_sky/lapis_lazuli",
+  "criteria": {
+    "trident": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "bettertridents:trident"
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_sky.trident.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:trident"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_sky.trident.title"
+    }
+  },
+  "requirements": [
+    ["trident"]
+  ],
+  "sends_telemetry_event": true
+}

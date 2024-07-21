@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "key": {
+        "b": {
+            "item": "minecraft:bamboo"
+        }
+    },
+    "pattern": [
+        "bb",
+        "bb"
+    ],
+    "result": {
+        "item": "minecraft:bamboo_planks"
+    },
+    "show_notification": true 
+}

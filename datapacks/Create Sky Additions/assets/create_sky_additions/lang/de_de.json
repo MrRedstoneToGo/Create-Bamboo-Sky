@@ -1,0 +1,122 @@
+{
+  "advancements.create_bamboo_sky.word_tip": "Tipp",
+  
+  "advancements.create_bamboo_sky.amethyst.title": "Poliertes Quartz",
+  "advancements.create_bamboo_sky.amethyst.description": "Poliere Nether Quartz. Wenn du dann ein paar Amethysten zusamenhast, kannst du auch einen Amethystknospenblock herstellen und davon die Amethysten ernten.",
+  
+  "advancements.create_bamboo_sky.bamboo_planks.title": "Überspringe die Stämme",
+  "advancements.create_bamboo_sky.bamboo_planks.description.info": "Bambusbretter könne jetzt im 2x2 Feld in deinem Inventar gecraftet werden.",
+  "advancements.create_bamboo_sky.bamboo_planks.description.important": "Wichtig! Das Folgende ist für den weiteren Spielverlauf unerlässlich.",
+  "advancements.create_bamboo_sky.bamboo_planks.description.tip": "Bewege den Mauszeiger über einen Gegenstand und %s oder drücke %s, um dessen %s anzuzeigen, oder %s oder drücke %s, um dessen %s anzuzeigen.",
+  "advancements.create_bamboo_sky.bamboo_planks.description.left_click": "linksklicke",
+  "advancements.create_bamboo_sky.bamboo_planks.description.right_click": "rechtsklicke",
+  "advancements.create_bamboo_sky.bamboo_planks.description.recipes": "Rezepte",
+  "advancements.create_bamboo_sky.bamboo_planks.description.uses": "Verwendungen",
+  
+  "advancements.create_bamboo_sky.blackstone.title": "Schwarzsteinhändler",
+  "advancements.create_bamboo_sky.blackstone.description": "Bekomme Schwarzstein von einem Piglin. Du kanst ihn später zerkleinern, um Kohle zu erhalten, die in komprimierter Form Diamanten ergibt, wenn sie zerkleinert wird.",
+  
+  "advancements.create_bamboo_sky.chorus.title": "Choruszeit",
+  "advancements.create_bamboo_sky.chorus.description": "Dünge Endstein mit Trostlose Ausbreitung für einen Teleportationspflanze.",
+  
+  "advancements.create_bamboo_sky.compost.title": "Zurück zur Natur",
+  "advancements.create_bamboo_sky.compost.description": "Kompostiere Stroh, das man durch Schälen von Bambusblöcken auf einem Schneidebrett erhält. Schneide dann den frischen Kompost mit einer beliebigen Schaufel.%sNehmen Sie den zu schneidenden Gegenstand in die zweite Hand und das Werkzeug in die Haupthand und halten Sie die rechte Maustaste gedrückt! Übrigens, Bambus kann sofort mit einem Schwert abgebaut werden.",
+  
+  "advancements.create_bamboo_sky.copper_nugget.title": "Lehmschätze",
+  "advancements.create_bamboo_sky.copper_nugget.description": "Nachdem du gebrannten Ton für Kupfer gemahlen hast, bist du bereit, dein erstes Messing zu mixen, wenn du es nicht schon von deinen Freunden bekommen hast :)",
+  
+  "advancements.create_bamboo_sky.crushed_raw_iron.title": "Erworbene Klumpen",
+  "advancements.create_bamboo_sky.crushed_raw_iron.description": "Baue Kies ab, während du schleichst, um einige wertvollere Kieselsteine zu erhalten",
+  
+  "advancements.create_bamboo_sky.dripstone.title": "Tropf, tropf, tropf",
+  "advancements.create_bamboo_sky.dripstone.description": "Wasche Kalkstein, um Tropfstein zu erhalten, und trockne den Schlamm darauf",
+  
+  "advancements.create_bamboo_sky.electron_tube.title": "Leistungslampe",
+  "advancements.create_bamboo_sky.electron_tube.description": "Poliere etwas Rosenquarz und stelle Elektronenröhren her, indem du es mit einem Eisenblech kombinierst.",
+  
+  "advancements.create_bamboo_sky.emerald.title": "Echte Währung",
+  "advancements.create_bamboo_sky.emerald.description": "Stelle Granit her und mahle ihn, um Smaragde daraus zu gewinnen.",
+  
+  "advancements.create_bamboo_sky.empty_blaze_burner.title": "Lohenkäfig",
+  "advancements.create_bamboo_sky.empty_blaze_burner.description": "Baue ein Zuhause für deinen zukünftigen, heißen Freund.",
+  
+  "advancements.create_bamboo_sky.end_stone.title": "Endgestein",
+  "advancements.create_bamboo_sky.end_stone.description": "Der Blackstone muss sich wirklich sehr abkühlen...",
+  
+  "advancements.create_bamboo_sky.ender_pearl.title": "Enderperlenhändler",
+  "advancements.create_bamboo_sky.ender_pearl.description": "Erhalte Enderperlen von einem Piglin. Du wirst sie später für Ender Jelly brauchen.%sÜbrigens, du kannst Enderperlen mit Endersamen züchten.",
+  
+  "advancements.create_bamboo_sky.flint.title": "Kiesel",
+  "advancements.create_bamboo_sky.flint.description": "Schneide felsige Erde.%sDu kannst später Feuerstein herstellen, indem du mit einer Schaufel auf einem Schneidebrett Kieselsteine schneidest. Auf diese Weise musst du nicht eine große Menge Stroh kompostieren.",
+  
+  "advancements.create_bamboo_sky.gold_nugget.title": "Sandschätze",
+  "advancements.create_bamboo_sky.gold_nugget.description": "Mühle gebrannte Tonblöcke und wasche das Ergebnis anschließend.",
+  
+  "advancements.create_bamboo_sky.grow_flowers.title": "Bunte Blumen",
+  "advancements.create_bamboo_sky.grow_flowers.description": "Dünge einen Grasblock und schau welche schönen Blumen wachsen!",
+  
+  "advancements.create_bamboo_sky.honey.title": "Brummende Bäume",
+  "advancements.create_bamboo_sky.honey.description": "Lasse ein paar Bienen in einen Kirschbaum einziehen und sammle Honig von ihnen.%sDu kannst Glasflaschen bekommen, indem du geangelte Wasserflaschen leertrinkst.",
+  
+  "advancements.create_bamboo_sky.lapis_lazuli.title": "Verzaubernder Puder",
+  "advancements.create_bamboo_sky.lapis_lazuli.description": "[Messing benötigt]: Blauen Farbstoff auf Aschemehl anwenden.",
+  
+  "advancements.create_bamboo_sky.lava.description": "Fülle deinen Eimer mit 20 überhitzten Bruchsteinen",
+  
+  "advancements.create_bamboo_sky.limestone.title": "Salzstein",
+  "advancements.create_bamboo_sky.limestone.description": "Mache einen Bruchstein-Generator mit Honig (Flüssigkeit) und Lava (siehe Fortschrittslinie mit Nether-Zeug).%sVersuche auch andere Flüssigkeiten in Kombination mit Lava. Manche reagieren mit ihr, manche nicht.",
+  
+  "advancements.create_bamboo_sky.netherite_scrap.title": "Ein robustes Blech, aber netherfiziert",
+  "advancements.create_bamboo_sky.netherite_scrap.description": "Lege Netherziegel unter einen Ausguss, lege ein stabiles Blatt und Aschenmehl darauf und presse es. Nachdem du das 8 Mal wiederholt hast, erhältst du ... Schutt.",
+  
+  "advancements.create_bamboo_sky.netherrack.title": "Gekühlte Magma",
+  "advancements.create_bamboo_sky.netherrack.description": "Friere einen Magmablock ein, bis du ihn betreten kannst.",
+  
+  "advancements.create_bamboo_sky.powder_snow.title": "Tiefschnee",
+  "advancements.create_bamboo_sky.powder_snow.description": "Baue dich in den Himmel hoch und stelle ein paar Kessel auf, um Pulverschnee zu sammeln.",
+  
+  "advancements.create_bamboo_sky.quartz.title": "Quarz-Händler",
+  "advancements.create_bamboo_sky.quartz.description": "Erhalte Netherquarz von einem Piglin",
+  
+  "advancements.create_bamboo_sky.root.title": "Create: Bamboo Sky",
+  "advancements.create_bamboo_sky.root.description": "Willkommen zu meinem Create Skyblock Modpack. Ich habe einige neue Rezepte hinzugefügt, die es sogar möglich machen, die Ressourcen von Create aus einem einzigen Bambus zu gewinnen! Mit dieser Fortschrittsanleitung (%s) führe ich dich durch die ersten Schritte von Bambus bis Messing. Viel Glück!",
+  "advancements.create_bamboo_sky.root.description.press_l": "drück L",
+  
+  "advancements.create_bamboo_sky.sculk_catalyst.title": "Katalysator",
+  "advancements.create_bamboo_sky.sculk_catalyst.description": "Legen Sie Endstone unter ein paar Maschinen und Sie haben alles, was Sie für Sculk brauchen",
+  
+  "advancements.create_bamboo_sky.slicer.title": "Automatisierte Küchenarbeit",
+  "advancements.create_bamboo_sky.slicer.description": "Du wirst wahrscheinlich schnell gemerkt haben, dass du für genau 1 zerkleinertes Roheisen eine Menge Kies von Hand schneiden müsstest (~120 Mal). Lass uns das mit einem Slicer automatisieren...",
+  
+  "advancements.create_bamboo_sky.slime_ball.title": "Klebriger Teig",
+  "advancements.create_bamboo_sky.slime_ball.description": "Schleimkugeln sind im Grunde genommen nur Kalkknete, richtig?",
+  
+  "advancements.create_bamboo_sky.soul_sand.title": "Seelensand-Händler",
+  "advancements.create_bamboo_sky.soul_sand.description": "Holen Sie sich Seelensand von einem Piglin. Du brauchst ihn für den Haunting.",
+  
+  "advancements.create_bamboo_sky.spawn_egg.title": "Nach dem eigenen Geburtsort graben",
+  "advancements.create_bamboo_sky.spawn_egg.description": "Lasst den Sniffer nach Spawn-Eiern schnüffeln.",
+  
+  "advancements.create_bamboo_sky.string.title": "Leinenstoff",
+  "advancements.create_bamboo_sky.string.description": "Mahle Flachs, um Faden daraus zu bekommen. Dieser kann einerseits zu Angeln, andererseits als Soff für Betten verwendet werden.",
+  
+  "advancements.create_bamboo_sky.super_heated.title": "Erneuerbarer Brennstoff",
+  "advancements.create_bamboo_sky.super_heated.description": "Geben Sie der Lohe im Lohenbrenner etwas Bioethanol zu trinken (Strohhalm erforderlich).",
+  
+  "advancements.create_bamboo_sky.trident.title": "Große Gabel",
+  "advancements.create_bamboo_sky.trident.description": "Einfach die Gabel herstellen...",
+  
+  "advancements.create_bamboo_sky.water.title": "Regnerische Tage",
+  "advancements.create_bamboo_sky.water.description": "Nimm Wasser aus einer Regenrinne. Du kannst jetzt einen Kessel mit diesem Wasser füllen und es mit einem Wasserhahn auf Erde gießen.",
+  
+  "create_sky_additions.word_chance": "Chance",
+  "emi.info.fishing_fish": "Kann als Fisch geangelt werden.",
+  "emi.info.fishing_junk": "Kann als Müll gefischt werden.",
+  "emi.info.fishing_treasure": "Kann als Schatz geangelt werden.",
+  "emi.info.sniffer_digging": "Kann von einem Sniffer ausgegraben werden.",
+  
+  "groups.diet.salt.name": "Salz",
+  
+  "functions.create_sky.register_player.spawn_message": "Drehe dich, um die Position deiner Insel zu bestimmen. Wenn der Marker grün ist, kannst du die Insel mit %s erstellen, wenn der Marker rot ist, passiert nichts.",
+  "functions.create_sky.cannot_place_island": "Du kannst hier keine Insel hinsetzen."
+}

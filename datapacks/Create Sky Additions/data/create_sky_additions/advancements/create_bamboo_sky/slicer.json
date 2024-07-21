@@ -1,0 +1,30 @@
+{
+  "parent": "create_sky_additions:create_bamboo_sky/crushed_raw_iron",
+  "criteria": {
+    "slicer": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "sliceanddice:slicer"
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.create_bamboo_sky.slicer.description",
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "farmersdelight:cutting_board"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.create_bamboo_sky.slicer.title"
+    }
+  },
+  "requirements": [
+    ["slicer"]
+  ],
+  "sends_telemetry_event": true
+}

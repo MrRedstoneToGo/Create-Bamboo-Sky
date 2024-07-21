@@ -1,0 +1,53 @@
+{
+  "blacklist": {
+    "//blacklist": "Blacklist. Read about the format here: https://github.com/Tschipp/CarryOn/wiki/Black---and-Whitelist-Config",
+    "//forbiddenTiles": "Blocks that cannot be picked up",
+    "forbiddenTiles": [
+      "minecraft:end_portal",
+      "minecraft:piston_head",
+      "minecraft:end_gateway",
+      "minecraft:tall_grass",
+      "minecraft:large_fern",
+      "minecraft:peony",
+      "minecraft:rose_bush",
+      "minecraft:lilac",
+      "minecraft:sunflower",
+      "minecraft:*_bed",
+      "minecraft:*_door",
+      "minecraft:big_dripleaf_stem",
+      "minecraft:waterlily",
+      "minecraft:cake",
+      "minecraft:nether_portal",
+      "minecraft:tall_seagrass",
+      "minecraft:furnace",
+      "minecraft:blast_furnace",
+      "minecraft:smoker",
+      "amendments:*",
+      "create:*",
+      "createaddition:*",
+      "create_enchantment_industry:*",
+      "create_vibrant_vaults:*",
+      "farmersdelight:stove",
+      "railways:*",
+      "sliceanddice:*",
+      "supplementaries:*"
+    ],
+    "//forbiddenEntities": "Entities that cannot be picked up",
+    "forbiddenEntities": [
+      "minecraft:end_crystal",
+      "minecraft:ender_dragon",
+      "minecraft:ghast",
+      "minecraft:shulker",
+      "minecraft:leash_knot",
+      "minecraft:armor_stand",
+      "minecraft:item_frame",
+      "minecraft:painting",
+      "minecraft:shulker_bullet"
+    ],
+    "//forbiddenStacking": "Entities that cannot have other entities stacked on top of them",
+    "forbiddenStacking": [
+      "minecraft:horse",
+      "railways:conductor"
+    ]
+  }
+}

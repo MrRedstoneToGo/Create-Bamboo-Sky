@@ -1,0 +1,10 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:minecraft:cod{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 60%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:salmon{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 25%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:tropical_fish{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 2%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:pufferfish{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 13%\", \"color\": \"gold\", \"italic\": false}]']}}"
+  ],
+  "text": "emi.info.fishing_fish"
+}

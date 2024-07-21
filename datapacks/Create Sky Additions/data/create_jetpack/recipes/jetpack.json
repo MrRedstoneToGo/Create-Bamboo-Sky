@@ -1,0 +1,41 @@
+{
+  "type": "create_jetpack:copy_nbt_mechanical_crafting",
+  "pattern": [
+    " iMSMi ",
+    "iPpvpPi",
+    "iCbXbCi",
+    "iCbbbCi"
+  ],
+  "key": {
+    "p": {
+      "item": "create:fluid_pipe"
+    },
+    "v": {
+      "item": "create:fluid_valve"
+    },
+    "P": {
+      "item": "create:propeller"
+    },
+    "C": {
+      "item": "create:chute"
+    },
+    "X": {
+      "item": "create:copper_backtank"
+    },
+    "S": {
+      "item": "create:shaft"
+    },
+    "M": {
+      "item": "create:precision_mechanism"
+    },
+    "b": {
+      "tag": "c:brass_plates"
+    },
+    "i": {
+      "tag": "c:iron_plates"
+    }
+  },
+  "result": {
+    "item": "create_jetpack:jetpack"
+  }
+}

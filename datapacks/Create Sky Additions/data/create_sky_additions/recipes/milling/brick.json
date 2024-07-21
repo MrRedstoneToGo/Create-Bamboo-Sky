@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:brick"
+    }
+  ],
+  "processingTime": 200,
+  "results": [
+    {
+      "chance": 0.1,
+      "item": "create:copper_nugget"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "garnished:sorrowful_lichen"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:glow_lichen"
+    }
+  ]
+}
