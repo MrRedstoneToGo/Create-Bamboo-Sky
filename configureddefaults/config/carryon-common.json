@@ -19,6 +19,9 @@
       "minecraft:cake",
       "minecraft:nether_portal",
       "minecraft:tall_seagrass",
+      "minecraft:furnace",
+      "minecraft:blast_furnace",
+      "minecraft:smoker",
       "amendments:*",
       "create:*",
       "createaddition:*",
@@ -26,7 +29,8 @@
       "create_vibrant_vaults:*",
       "farmersdelight:stove",
       "railways:*",
-      "sliceanddice:*"
+      "sliceanddice:*",
+      "supplementaries:*"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [

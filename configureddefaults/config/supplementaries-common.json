@@ -10,10 +10,5 @@
     "clock_block": false,
     "crank": false,
     "cog_block": false
-  },
-  "tools": {
-    "wrench": {
-      "enabled": false
-    }
   }
 }

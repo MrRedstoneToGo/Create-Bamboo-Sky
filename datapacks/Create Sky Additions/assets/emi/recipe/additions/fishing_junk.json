@@ -1,0 +1,24 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:minecraft:lily_pad{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 8%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:leather_boots{Damage: 32, display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 5%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:leather{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 5%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:bone{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 7%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:potion{Potion: \"minecraft:water\", display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 6%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:string{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 3%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:fishing_rod{Damage: 32, display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 1%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:bowl{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 4%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:stick{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 6%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:ink_sac{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 1% * 10\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:tripwire_hook{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 5%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:rotten_flesh{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 5%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:farmersdelight:rice_panicle{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 6%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:sugar_cane{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 5%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:kelp{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 20%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:frogspawn{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 3%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:small_dripleaf{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 5%\", \"color\": \"gold\", \"italic\": false}]']}}",
+    "item:minecraft:bamboo{display: {Lore: ['[{\"translate\": \"create_sky_additions.word_chance\", \"color\": \"gold\", \"italic\": false}, {\"text\": \": 5%\", \"color\": \"gold\", \"italic\": false}]']}}"
+  ],
+  "text": "emi.info.fishing_junk"
+}

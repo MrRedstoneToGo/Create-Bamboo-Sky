@@ -58,12 +58,6 @@
   "advancements.create_bamboo_sky.honey.title": "Жужжащие деревья",
   "advancements.create_bamboo_sky.honey.description": "Пусть несколько пчёл поселятся в вишнёвом дереве и собирайте с них мёд.%sСтеклянные бутылки можно получить, выпив выловленные бутылки с водой пустыми.",
   
-  "advancements.create_bamboo_sky.ice.title": "Новый агрегат",
-  "advancements.create_bamboo_sky.ice.description": "Разбейте ледяные блоки от ледяной хотьбы киркой с зачарованием \"Шёлковое касание\".",
-  
-  "advancements.create_bamboo_sky.kelp.title": "Конвейерная ламинария",
-  "advancements.create_bamboo_sky.kelp.description": " Выловите ламинарию для вашего механического ремня.",
-  
   "advancements.create_bamboo_sky.lapis_lazuli.title": "Зачаровывающий порошок",
   "advancements.create_bamboo_sky.lapis_lazuli.description": "[Требуется латунь]: Смешайте синий краситель с незеритовой мукой для получения лазурита.",
     
@@ -78,6 +72,9 @@
   "advancements.create_bamboo_sky.netherrack.title": "Охлаждённая магма",
   "advancements.create_bamboo_sky.netherrack.description": "Заморозьте блок магмы, пока не сможете ходить по нему.",
   
+  "advancements.create_bamboo_sky.powder_snow.title": "Глубокий снег",
+  "advancements.create_bamboo_sky.powder_snow.description": "Поднимитесь в небо и установите несколько котлов, чтобы собирать порошковый снег.",
+  
   "advancements.create_bamboo_sky.quartz.title": "Торговцы кварцем",
   "advancements.create_bamboo_sky.quartz.description": "Получите незер-кварц от Пиглина.",
   
@@ -89,7 +86,7 @@
   "advancements.create_bamboo_sky.sculk_catalyst.description": "Положите эндерняк под несколько машин и у вас будет всё, что нужно для скалка.",
   
   "advancements.create_bamboo_sky.slicer.title": "Авто кухня",
-  "advancements.create_bamboo_sky.slicer.description": "Вы, вероятно, быстро осознали, что вам придётся нарезать много гравия вручную для создания котла. Давайте автоматизируем это с помощью слайсера...%sВы можете запитать ваш слайсер с помощью водяного колеса, которое может работаеть на соломе. Последнюю можно получить, розкрыв снопы сена с помощью ножниц.",
+  "advancements.create_bamboo_sky.slicer.description": "Вы, вероятно, быстро поняли, что для получения 1 куска дробленого сырого железа вам придется вручную нарезать много гравия (~120 раз). Давайте автоматизируем это с помощью слайсера...",
   
   "advancements.create_bamboo_sky.slime_ball.title": "Липкое тесто",
   "advancements.create_bamboo_sky.slime_ball.description": "Слизистые шары - это по сути просто известковое тесто, верно?",
@@ -110,7 +107,13 @@
   "advancements.create_bamboo_sky.trident.description": "Просто создайте вилку...",
   
   "advancements.create_bamboo_sky.water.title": "Дождливые дни",
-  "advancements.create_bamboo_sky.water.description": "Возьмите воду из котла, наполненного дождем.\n\nКак только у вас появится бесконечный источник воды, вы сможете снова наполнить котел водой и вылить ее на почву с помощью крана.",
+  "advancements.create_bamboo_sky.water.description": "Возьмите воду из дождевого желоба.\n\nВы можете наполнить этой водой котел и вылить ее на грязь с помощью крана.",
+  
+  "create_sky_additions.word_chance": "шанс",
+  "emi.info.fishing_fish": "Можно ловить как рыбу.",
+  "emi.info.fishing_junk": "Можно ловить как хлам.",
+  "emi.info.fishing_treasure": "Можно ловить как сокровище.",
+  "emi.info.sniffer_digging": "Может быть раскопана нюхачом.",
   
   "groups.diet.salt.name": "Соль",
   

@@ -12,13 +12,6 @@
     "announce_to_chat": false,
     "description": {
       "translate": "advancements.create_bamboo_sky.slicer.description",
-      "with": [
-        [
-          "\n\n",
-          {"translate": "advancements.create_bamboo_sky.word_tip", "bold": true, "color": "yellow"},
-          ": "
-        ]
-      ]
     },
     "frame": "task",
     "hidden": false,

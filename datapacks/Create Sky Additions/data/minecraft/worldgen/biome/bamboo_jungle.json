@@ -21,6 +21,8 @@
       "replace_current_music": false,
       "sound": "minecraft:music.overworld.bamboo_jungle"
     },
+    "foliage_color": 3193611,
+    "grass_color": 5884220,
     "sky_color": 7842047,
     "water_color": 4159204,
     "water_fog_color": 329011
@@ -104,5 +106,5 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.95
+  "temperature": 0.3
 }

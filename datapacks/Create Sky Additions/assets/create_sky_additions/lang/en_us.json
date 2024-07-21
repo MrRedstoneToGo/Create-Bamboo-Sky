@@ -58,12 +58,6 @@
   "advancements.create_bamboo_sky.honey.title": "Buzzy Trees",
   "advancements.create_bamboo_sky.honey.description": "Let a few Bees move into a Cherry Tree and collect Honey from them.%sYou can get Glass Bottles by drinking fished Water Bottles empty.",
   
-  "advancements.create_bamboo_sky.ice.title": "A new Aggregat",
-  "advancements.create_bamboo_sky.ice.description": "Break some frost walker Frosted Ice with your Silk Touch Pickaxe",
-  
-  "advancements.create_bamboo_sky.kelp.title": "Conveyor Kelp",
-  "advancements.create_bamboo_sky.kelp.description": "Fish Kelp for your Mechanical Belt",
-  
   "advancements.create_bamboo_sky.lapis_lazuli.title": "Enchanting Powder",
   "advancements.create_bamboo_sky.lapis_lazuli.description": "[Brass needed]: Deploy Blue Dye on Cinder Flour.",
   
@@ -78,6 +72,9 @@
   "advancements.create_bamboo_sky.netherrack.title": "Cooled magma",
   "advancements.create_bamboo_sky.netherrack.description": "Freeze a Magma Block until you can walk on it.",
   
+  "advancements.create_bamboo_sky.powder_snow.title": "Deep snow",
+  "advancements.create_bamboo_sky.powder_snow.description": "Build yourself up to the sky and set up a few cauldrons to collect Powder Snow.",
+  
   "advancements.create_bamboo_sky.quartz.title": "Quartz Traders",
   "advancements.create_bamboo_sky.quartz.description": "Get Nether Quartz from a Piglin.",
   
@@ -89,7 +86,7 @@
   "advancements.create_bamboo_sky.sculk_catalyst.description": "Put Endstone under a few machines and you have everything you need for Sculk.",
   
   "advancements.create_bamboo_sky.slicer.title": "Automated Kitchenwork",
-  "advancements.create_bamboo_sky.slicer.description": "You will probably have quickly realized that you would have to cut a lot of gravel by hand for a Cauldron. Let's automate this with a slicer...%sYou can power up your Slicer with a Water Wheel, which is powered by Thatch. The latter can be obtained by opening Hay Bales with Shears.",
+  "advancements.create_bamboo_sky.slicer.description": "You will probably have quickly realized that you would have to cut a lot of gravel by hand (~120 times) for 1 Crushed Raw Iron, precisely. Let's automate this with a slicer...",
   
   "advancements.create_bamboo_sky.slime_ball.title": "Sticky dough",
   "advancements.create_bamboo_sky.slime_ball.description": "Slime Balls are basically just lime Dough, right?",
@@ -110,9 +107,15 @@
   "advancements.create_bamboo_sky.trident.description": "Just craft the fork...",
   
   "advancements.create_bamboo_sky.water.title": "Rainy Days",
-  "advancements.create_bamboo_sky.water.description": "Take water from a Cauldron filled with rain.\n\nAs soon as you have an infinite water source, you can fill the Cauldron with water again and pour it onto Dirt with a Faucet.",
+  "advancements.create_bamboo_sky.water.description": "Take water from a Rain Gutter.\n\nYou can fill a Cauldron with this water now and pour it onto Dirt with a Faucet.",
   
-   "groups.diet.salt.name": "Salt",
+  "create_sky_additions.word_chance": "Chance",
+  "emi.info.fishing_fish": "Can be fished as fish.",
+  "emi.info.fishing_junk": "Can be fished as junk.",
+  "emi.info.fishing_treasure": "Can be fished as treasure.",
+  "emi.info.sniffer_digging": "Can be dug up by a Sniffer.",
+  
+  "groups.diet.salt.name": "Salt",
    
   "functions.create_sky.register_player.spawn_message": "Turn to determine the position of your island. If the marker is green, you can create the island with %s, if the marker is red, nothing happens.",
   "functions.create_sky.cannot_place_island": "You cannot place an island here."

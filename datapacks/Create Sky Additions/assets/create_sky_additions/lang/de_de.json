@@ -58,12 +58,6 @@
   "advancements.create_bamboo_sky.honey.title": "Brummende Bäume",
   "advancements.create_bamboo_sky.honey.description": "Lasse ein paar Bienen in einen Kirschbaum einziehen und sammle Honig von ihnen.%sDu kannst Glasflaschen bekommen, indem du geangelte Wasserflaschen leertrinkst.",
   
-  "advancements.create_bamboo_sky.ice.title": "Ein neuer Aggregatzustand",
-  "advancements.create_bamboo_sky.ice.description": "Zerbrich etwas mit Eisläufer gefrohrenes Eis mit deiner Behutsamkeitsspitzhacke.",
-  
-  "advancements.create_bamboo_sky.kelp.title": "Förderseetang",
-  "advancements.create_bamboo_sky.kelp.description": "Fische Seetang für dein Förderband",
-  
   "advancements.create_bamboo_sky.lapis_lazuli.title": "Verzaubernder Puder",
   "advancements.create_bamboo_sky.lapis_lazuli.description": "[Messing benötigt]: Blauen Farbstoff auf Aschemehl anwenden.",
   
@@ -78,6 +72,9 @@
   "advancements.create_bamboo_sky.netherrack.title": "Gekühlte Magma",
   "advancements.create_bamboo_sky.netherrack.description": "Friere einen Magmablock ein, bis du ihn betreten kannst.",
   
+  "advancements.create_bamboo_sky.powder_snow.title": "Tiefschnee",
+  "advancements.create_bamboo_sky.powder_snow.description": "Baue dich in den Himmel hoch und stelle ein paar Kessel auf, um Pulverschnee zu sammeln.",
+  
   "advancements.create_bamboo_sky.quartz.title": "Quarz-Händler",
   "advancements.create_bamboo_sky.quartz.description": "Erhalte Netherquarz von einem Piglin",
   
@@ -89,7 +86,7 @@
   "advancements.create_bamboo_sky.sculk_catalyst.description": "Legen Sie Endstone unter ein paar Maschinen und Sie haben alles, was Sie für Sculk brauchen",
   
   "advancements.create_bamboo_sky.slicer.title": "Automatisierte Küchenarbeit",
-  "advancements.create_bamboo_sky.slicer.description": "Du wirst wahrscheinlich schnell gemerkt haben, dass du für einen Kessel eine Menge Kies von Hand schneiden müsstest. Lass uns das mit einem Slicer automatisieren...%sDeinen Slicer kannst du mit einem Wasserrad antreiben, das von Thatch angetrieben wird. Letzteres erhält man, indem man Heuballen mit einer Schere öffnet.",
+  "advancements.create_bamboo_sky.slicer.description": "Du wirst wahrscheinlich schnell gemerkt haben, dass du für genau 1 zerkleinertes Roheisen eine Menge Kies von Hand schneiden müsstest (~120 Mal). Lass uns das mit einem Slicer automatisieren...",
   
   "advancements.create_bamboo_sky.slime_ball.title": "Klebriger Teig",
   "advancements.create_bamboo_sky.slime_ball.description": "Schleimkugeln sind im Grunde genommen nur Kalkknete, richtig?",
@@ -110,7 +107,13 @@
   "advancements.create_bamboo_sky.trident.description": "Einfach die Gabel herstellen...",
   
   "advancements.create_bamboo_sky.water.title": "Regnerische Tage",
-  "advancements.create_bamboo_sky.water.description": "Nimm Wasser aus einem mit Regen gefüllten Kessel.\n\nSobald du eine unendliche Wasserquelle hast, kannst du den Kessel wieder mit Wasser füllen, um dieses mit einem Faucet auf Erde zu gießen.",
+  "advancements.create_bamboo_sky.water.description": "Nimm Wasser aus einer Regenrinne. Du kannst jetzt einen Kessel mit diesem Wasser füllen und es mit einem Wasserhahn auf Erde gießen.",
+  
+  "create_sky_additions.word_chance": "Chance",
+  "emi.info.fishing_fish": "Kann als Fisch geangelt werden.",
+  "emi.info.fishing_junk": "Kann als Müll gefischt werden.",
+  "emi.info.fishing_treasure": "Kann als Schatz geangelt werden.",
+  "emi.info.sniffer_digging": "Kann von einem Sniffer ausgegraben werden.",
   
   "groups.diet.salt.name": "Salz",
   

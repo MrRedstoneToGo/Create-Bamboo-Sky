@@ -15,12 +15,6 @@
                 }
               }
             }
-          },
-          {
-            "condition": "minecraft:match_tool",
-            "predicate": {
-              "items": ["farmersdelight:straw"]
-            }
           }
         ]
       }

@@ -7,7 +7,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:lily_pad",
-          "weight": 17
+          "weight": 8
         },
         {
           "type": "minecraft:item",
@@ -23,17 +23,17 @@
             }
           ],
           "name": "minecraft:leather_boots",
-          "weight": 10
+          "weight": 5
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:leather",
-          "weight": 10
+          "weight": 5
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:bone",
-          "weight": 10
+          "weight": 7
         },
         {
           "type": "minecraft:item",
@@ -44,12 +44,12 @@
             }
           ],
           "name": "minecraft:potion",
-          "weight": 10
+          "weight": 6
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:string",
-          "weight": 5
+          "weight": 3
         },
         {
           "type": "minecraft:item",
@@ -65,17 +65,16 @@
             }
           ],
           "name": "minecraft:fishing_rod",
-          "weight": 2
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:bowl",
-          "weight": 10
+          "weight": 4
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:stick",
-          "weight": 5
+          "weight": 6
         },
         {
           "type": "minecraft:item",
@@ -91,37 +90,37 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:tripwire_hook",
-          "weight": 10
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:rotten_flesh",
-          "weight": 10
-        },
-        {
-          "type": "minecraft:item",
-          "name": "farmersdelight:rice_panicle",
-          "weight": 10
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:sugar_cane",
-          "weight": 10
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:kelp",
-          "weight": 10
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:frogspawn",
           "weight": 5
         },
         {
           "type": "minecraft:item",
+          "name": "minecraft:rotten_flesh",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:rice_panicle",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sugar_cane",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:kelp",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:frogspawn",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:small_dripleaf",
-          "weight": 10
+          "weight": 5
         },
         {
           "type": "minecraft:item",
@@ -151,7 +150,7 @@
             }
           ],
           "name": "minecraft:bamboo",
-          "weight": 10
+          "weight": 5
         }
       ],
       "rolls": 1.0

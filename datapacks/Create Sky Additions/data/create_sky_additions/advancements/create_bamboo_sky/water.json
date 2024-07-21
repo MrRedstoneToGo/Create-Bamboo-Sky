@@ -2,22 +2,11 @@
   "parent": "create_sky_additions:create_bamboo_sky/crushed_raw_iron",
   "criteria": {
     "cauldron": {
-      "trigger": "minecraft:item_used_on_block",
+      "trigger": "minecraft:inventory_changed",
       "conditions": {
-        "location": [
+        "items": [
           {
-            "condition": "minecraft:match_tool",
-            "predicate": {
-              "items": ["minecraft:bucket", "minecraft:glass_bottle"]
-            }
-          },
-          {
-            "condition": "minecraft:location_check",
-            "predicate": {
-              "block": {
-                "blocks": ["minecraft:water_cauldron", "minecraft:cauldron"]
-              }
-            }
+            "items": ["minecraft:water_bucket"]
           }
         ]
       }
