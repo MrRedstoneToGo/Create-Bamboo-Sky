@@ -11,7 +11,7 @@
   "display": {
     "announce_to_chat": false,
     "description": {
-      "translate": "advancements.create_bamboo_sky.slicer.description",
+      "translate": "advancements.create_bamboo_sky.slicer.description"
     },
     "frame": "task",
     "hidden": false,
