@@ -64,7 +64,7 @@
               "function": "minecraft:set_damage"
             }
           ],
-          "name": "minecraft:fishing_rod",
+          "name": "minecraft:fishing_rod"
         },
         {
           "type": "minecraft:item",
