@@ -10,6 +10,18 @@
             "entries": [
               {
                 "data": {
+                  "Name": "minecraft:fern"
+                },
+                "weight": 5
+              },
+              {
+                "data": {
+                  "Name": "minecraft:large_fern"
+                },
+                "weight": 5
+              },
+              {
+                "data": {
                   "Name": "minecraft:dandelion"
                 },
                 "weight": 8
